@@ -1,5 +1,0 @@
-include ':eventsapp'
-include ':linkedin-sdk'
-include ':sampleapp'
-include ':app'
-rootProject.name = "SocialMediaIntegration"

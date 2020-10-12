@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">SocialMediaIntegration</string>
-    <string name="facebook_app_id">349350456382891</string>
-    <string name="fb_login_protocol_scheme">fb349350456382891</string>
-    <string name="com_auth0_client_id">fFY3u6uW0mdNPnOUavPAPsS5Eus5q9FL</string>
-    <string name="com_auth0_domain">dev-gvhfcfh0.us.auth0.com</string>
-</resources>
